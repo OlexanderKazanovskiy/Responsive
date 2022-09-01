@@ -658,4 +658,7 @@ button {
   .number-item {
     font-size: 23px;
   }
+    .cook-content {
+    margin-left: -25px;
+  }
 }
